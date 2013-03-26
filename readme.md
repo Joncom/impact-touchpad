@@ -1,6 +1,6 @@
 ## Demo ##
 
-http://commins.ca/touchpad/
+http://commins.ca/impact-touchpad/
 
 ## What Is It? ##
 
